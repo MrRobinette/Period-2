@@ -1,9 +1,6 @@
 [submodule "Chen-Neo-Sem-1"]
 	path = Chen-Neo-Sem-1
 	url = https://github.com/Masterlufit/Chen-Neo-Sem-1
-[submodule "Baixin_Chen_APCOMPSCI_Sem1"]
-	path = Baixin_Chen_APCOMPSCI_Sem1
-	url = https://github.com/Bbaronchen/Baixin_Chen_APCOMPSCI_Sem1
 [submodule "EmilyJeong"]
 	path = EmilyJeong
 	url = https://github.com/naseul56/EmilyJeong
