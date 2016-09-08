@@ -1,0 +1,9 @@
+[submodule "Sahil_Ahuja-APSem1"]
+	path = Sahil_Ahuja-APSem1
+	url = https://github.com/saahuja/Sahil_Ahuja-APSem1
+[submodule "Chen-Neo-Sem-1"]
+	path = Chen-Neo-Sem-1
+	url = https://github.com/Masterlufit/Chen-Neo-Sem-1
+[submodule "Baixin_Chen_APCOMPSCI_Sem1"]
+	path = Baixin_Chen_APCOMPSCI_Sem1
+	url = https://github.com/Bbaronchen/Baixin_Chen_APCOMPSCI_Sem1
