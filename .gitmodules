@@ -4,3 +4,6 @@
 [submodule "EmilyJeong"]
 	path = EmilyJeong
 	url = https://github.com/naseul56/EmilyJeong
+[submodule "Baixin_Chen_APCOMPSCI_Sem1"]
+	path = Baixin_Chen_APCOMPSCI_Sem1
+	url = https://github.com/Bbaronchen/Baixin_Chen_APCOMPSCI_Sem1
