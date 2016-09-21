@@ -62,3 +62,45 @@
 [submodule "Valdes_Ethan"]
 	path = Valdes_Ethan
 	url = https://github.com/ethanvaldes/Valdes_Ethan
+[submodule "Klimek_Kalyn"]
+	path = Klimek_Kalyn
+	url = https://github.com/kalynklimek/Klimek_Kalyn
+[submodule "Schuh_Anton"]
+	path = Schuh_Anton
+	url = https://github.com/antonschuh/Schuh_Anton
+[submodule "Friedman_SethAP"]
+	path = Friedman_SethAP
+	url = https://github.com/friedmans0841/Friedman_SethAP
+[submodule "Guru_Aditya"]
+	path = Guru_Aditya
+	url = https://github.com/dorlokk/Guru_Aditya
+[submodule "Chen_Baixin_APCOMPSCI_Sem1"]
+	path = Chen_Baixin_APCOMPSCI_Sem1
+	url = https://github.com/Bbaronchen/Chen_Baixin_APCOMPSCI_Sem1
+[submodule "Hoh_Jodie"]
+	path = Hoh_Jodie
+	url = https://github.com/MitsukiMoon/Hoh_Jodie
+[submodule "Karlov_Konstantin"]
+	path = Karlov_Konstantin
+	url = https://github.com/karlovk/Karlov_Konstantin
+[submodule "Lin_Cody"]
+	path = Lin_Cody
+	url = https://github.com/StopwatchCAMEL/Lin_Cody
+[submodule "Nergis_Piril"]
+	path = Nergis_Piril
+	url = https://github.com/nergisp/Nergis_Piril
+[submodule "best_tyler"]
+	path = best_tyler
+	url = https://github.com/tylerbest/best_tyler
+[submodule "SCHEG_LAUREN"]
+	path = SCHEG_LAUREN
+	url = https://github.com/laurenscheg/SCHEG_LAUREN
+[submodule "Cugliandro_Daniel"]
+	path = Cugliandro_Daniel
+	url = https://github.com/dcugliandro/Cugliandro_Daniel
+[submodule "Huang_Ivy"]
+	path = Huang_Ivy
+	url = https://github.com/ivyhuang9/Huang_Ivy
+[submodule "Tyagi_AnishaAPCOMPSCI"]
+	path = Tyagi_AnishaAPCOMPSCI
+	url = https://github.com/anishatyagi/Tyagi_AnishaAPCOMPSCI
