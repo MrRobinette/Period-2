@@ -100,3 +100,12 @@
 [submodule "Tyagi_AnishaAPCOMPSCI"]
 	path = Tyagi_AnishaAPCOMPSCI
 	url = https://github.com/anishatyagi/Tyagi_AnishaAPCOMPSCI
+[submodule "Aasted_Erik_APCompSci_Sem1"]
+	path = Aasted_Erik_APCompSci_Sem1
+	url = https://github.com/tirefrier/Aasted_Erik_APCompSci_Sem1
+[submodule "Cha_Peter"]
+	path = Cha_Peter
+	url = https://github.com/pcha99/Cha_Peter
+[submodule "Gilyazor_Emil"]
+	path = Gilyazor_Emil
+	url = https://github.com/Xalitor/Gilyazor_Emil
