@@ -22,9 +22,6 @@
 [submodule "Li_Ethan__APCOMPSCI-Semester-1"]
 	path = Li_Ethan__APCOMPSCI-Semester-1
 	url = https://github.com/lie5571/Li_Ethan__APCOMPSCI-Semester-1
-[submodule "Bond_Sophia"]
-	path = Bond_Sophia
-	url = https://github.com/sophiabond/Bond_Sophia
 [submodule "kong_stacy_s1"]
 	path = kong_stacy_s1
 	url = https://github.com/stacykong/kong_stacy_s1
@@ -76,9 +73,6 @@
 [submodule "Hoh_Jodie"]
 	path = Hoh_Jodie
 	url = https://github.com/MitsukiMoon/Hoh_Jodie
-[submodule "Karlov_Konstantin"]
-	path = Karlov_Konstantin
-	url = https://github.com/karlovk/Karlov_Konstantin
 [submodule "Lin_Cody"]
 	path = Lin_Cody
 	url = https://github.com/StopwatchCAMEL/Lin_Cody
@@ -106,6 +100,4 @@
 [submodule "Cha_Peter"]
 	path = Cha_Peter
 	url = https://github.com/pcha99/Cha_Peter
-[submodule "Gilyazor_Emil"]
-	path = Gilyazor_Emil
-	url = https://github.com/Xalitor/Gilyazor_Emil
+
